@@ -1,8 +1,4 @@
-<div align="center">
- <a href="https://github.com/Zesaa">
-  <img src="(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=HELLO+THERE!+%F0%9F%91%BE+WELCOME%F0%9F%99%8B%F0%9F%8F%BB;MY+NAME+IS+ZESA+%F0%9F%98%8E;SEMIH+AYAN+%F0%9F%98%84)](https://git.io/typing-svg)" />
- </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=HELLO+THERE!+%F0%9F%91%BE+WELCOME%F0%9F%99%8B%F0%9F%8F%BB;MY+NAME+IS+ZESA+%F0%9F%98%8E;SEMIH+AYAN+%F0%9F%98%84)](https://git.io/typing-svg)
 # 💫 About Me:
 My name is Semih. I'm 22 years old and I'm studying Electronics Technology at Cumhuriyet University. I share the projects I'm working on on my Github page.
 
