@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=HELLO+THERE!+%F0%9F%91%BE+WELCOME%F0%9F%99%8B%F0%9F%8F%BB;MY+NAME+IS+ZESA+%F0%9F%98%8E;SEMIH+AYAN+%F0%9F%98%84)](https://git.io/typing-svg)
-<img align="right" alt="Coding" width="400" src=https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
 # 💫 About Me:
 My name is Semih. I'm 22 years old and I'm studying Electronics Technology at Cumhuriyet University. I share the projects I'm working on on my Github page.
 
