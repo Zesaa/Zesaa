@@ -1,19 +1,27 @@
-### Hi there 👋, Semih Ayan
-#### Software
+# 💫 About Me:
 My name is Semih. I'm 22 years old and I'm studying Electronics Technology at Cumhuriyet University. I share the projects I'm working on on my Github page.
 
-Skills:  JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/semihayn7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/semih-ayan-30394a264) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/semihayn7) 
 
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zesaa&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zesaa&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zesaa&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zesaa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/semih-ayan-30394a264/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/semihayn07/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/semihayn7)  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Zesaa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Zesaa)](https://github.com/ryo-ma/github-profile-trophy)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Zesaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Zesaa/contributions?format=svg&private=true)  
+---
+[![](https://visitcount.itsvg.in/api?id=Zesaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Zesaa)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
